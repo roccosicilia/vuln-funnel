@@ -1,0 +1,7 @@
+{
+    "dbusername" : "dbusername",
+    "dbpassword": "dbpassword",
+    "dbname": "vuln-funnel",
+    "dbhost": "localhost"
+
+}
